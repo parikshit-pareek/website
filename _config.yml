@@ -1,7 +1,7 @@
 # Site settings
-title: Richard Feynman
-email: richard@university.edu
-description: Academic webpage of Dr. Richard Feynman
+title: Parikshit Pareek
+email: pareek@iitr.ac.in
+description: Academic webpage of Prof. Parikshit Pareek
 baseurl: ""
 url: ""
 
@@ -12,14 +12,14 @@ url: ""
 
 # Footer info
 affiliation: >
-  Richard Feynman<br/>
-  Professor of Physics<br/>
-  California Institute of Technology
+  Parikshit Pareek<br/>
+  Department of Electrical Engineering<br/>
+  Indian Institute of Technology Roorkee
 
 location: >
-  California Institute of Technology<br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125
+  Indian Institute of Technology Roorkee<br/>
+  Department of Electrical Engineering<br/>
+  Uttarakhand, India - 
 
 contact: >
   <a href="mailto:richard@university.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Richard via email</a> <br/>
